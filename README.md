@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 -  Hola, soy @loyolavh
 - 👀 Me interesa la Programacion, desarrollo de sistemas, base de datos
-- 🌱 Actualmente estoy aprendiendo y eneñando
-- 💞️ Estoy buscando colaborar en con el aprendisaje de los estudiantes
+- 🌱 Actualmente estoy aprendiendo y enseñando
+- 💞️ Estoy buscando colaborar en con el aprendizaje de los estudiantes
 - 📫 Cómo contactarme, mediante mi correo electronico
 
 <! ---
